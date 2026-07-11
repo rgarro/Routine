@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Routine</string>
+    <string name="details_button">Details</string>
 </resources>
