@@ -2,6 +2,8 @@ package com.example.routine;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;//View to a Kill dance into the fire ...
+import android.content.Intent;
 /**
  *            |    |    |
  *           )_)  )_)  )_)
@@ -13,7 +15,8 @@ import android.os.Bundle;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
- * load the starboard guns, muskets on the stern
+ * Morgan got hanged, Morgan is a Yellow Dog
+ * King Charles himself came to siege Maracaibo
  *
  *
  *
@@ -27,5 +30,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    public void onShowDetails(View view){
+        Intent intent = new Intent(this,DetailActivity.class);
+        startActivity(intent);
     }
 }
