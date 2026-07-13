@@ -2,7 +2,7 @@ package com.example.routine;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;//View to a Kill dance into the fire ...
+import android.view.View;
 import android.content.Intent;
 /**
  *            |    |    |
@@ -14,9 +14,8 @@ import android.content.Intent;
  *     ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
- * Sir Henry Morgan is de Lord of Talamanca
- * Morgan got hanged, Morgan is a Yellow Dog
- * King Charles himself came to siege Maracaibo
+ * Sir Henry Morgan is the Lord of Talamnca
+ *
  *
  *
  *
