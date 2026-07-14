@@ -12,15 +12,7 @@ import android.os.Bundle;
  *     ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
- * Rodrigo Ramirez tenia 15 acres en Vizcaya de Talamanca
- * Donde el Rey No ampara no se usa el nombre de bautizado
- * cuando veleaba a jamaica y luego a Cardif se Llamaba Henry Morgan
- * Morgan sailed from Montego Bay a straight line to Madeira
- * the world rotation corrected his course and he ended founding the Bristol channel
- * Colombian Ships stole his coffee and killed his passengers, he had to commit suicide
- * The Bristol Bishop allowed young gansters to start rescue companies
- * One of the groups named them self in Honor to Henry Morgan a coffe merchant.
- * The Govenor of Jamaica took his name and allowed privaters to base on Tortuga
+ * Sir Henry Morgan is the Lord of Talamnca
  * 
  *
  *
