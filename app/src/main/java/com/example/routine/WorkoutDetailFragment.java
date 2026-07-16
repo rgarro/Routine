@@ -18,16 +18,6 @@ import android.widget.TextView;
  *           ^^^^      ^^^
  * Sir Henry Morgan is the Lord of Talamnca
  * El Sol estaba en direccion de Cabo Verde curvando hasta Paraguay
- * La Noche pasaba por Vizacaya de Talamanca, venia de Veracruz en direccion a Barranquilla
- * Joseph Bradley ordered to intercept La Noche ...
- * Joshep Bradley owns Puerto Viejo and Cahuita ..
- * En la CASA VIEJA DE MADERA frente al PULPERIA EL POLLO EN TIBAS
- * hay partes de madera del Barco de Joshep Bradley
- *  En el Castillo Azul del Poder Legislativo en Cuesta de Moras
- *  hay partes de madera de LA NOCHE
- * The Tortoise led by one of the Myngs captains sailed straight south from Port Royal
- * interepting LA Noche en Vizcaya , fallaron los duelos en cubierta traicionando los Pasajeros
- * por celebrar las Putas conversas , han usado la Madera de la Noche en Bares y Burdeles ...
  * Chumlee esta en la Vegas y sabe que esto es verdad ...
  *
  *
