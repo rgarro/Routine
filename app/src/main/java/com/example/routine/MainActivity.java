@@ -14,9 +14,10 @@ import android.content.Intent;
  *     ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
- * Sir Henry Morgan is the Lord of Talamnca
- *
- *
+ * Sir Henry Morgan is the Lord of Talamanca
+ * but in this. ever changing world in which we live in
+ * makes you give in and cry
+ * say live and let die
  *
  *
  *
