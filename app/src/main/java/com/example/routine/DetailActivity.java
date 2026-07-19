@@ -18,8 +18,6 @@ import android.os.Bundle;
  *
  *
  *
- *
- *
  * @author Rolando <rgarro@gmail.com>
  */
 public class DetailActivity extends AppCompatActivity {

@@ -17,8 +17,7 @@ import android.widget.TextView;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is the Lord of Talamnca
- * El Sol estaba en direccion de Cabo Verde curvando hasta Paraguay
- * Chumlee esta en la Vegas y sabe que esto es verdad ...
+ *
  *
  *
  * @author Rolando <rgarro@gmail.com>
