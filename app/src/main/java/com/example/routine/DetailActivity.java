@@ -13,8 +13,6 @@ import android.os.Bundle;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is the Lord of Talamanca
- * when the dogs Do find her got time time to wait
- *  for tomorrow
  *
  *
  *

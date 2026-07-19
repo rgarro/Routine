@@ -19,7 +19,6 @@ import android.widget.TextView;
  * Sir Henry Morgan is the Lord of Talamnca
  *
  *
- *
  * @author Rolando <rgarro@gmail.com>
  */
 public class WorkoutDetailFragment extends Fragment {
